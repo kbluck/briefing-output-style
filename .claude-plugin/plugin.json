@@ -1,0 +1,11 @@
+{
+  "name": "briefing",
+  "version": "1.0.0",
+  "displayName": "Briefing",
+  "description": "Claude Code output style that prioritizes clarity and brevity.",
+  "author": { "name": "Kevin Bluck", "email": "kevin.bluck@gmail.com" },
+  "homepage": "https://github.com/kbluck/briefing-output-style",
+  "repository": "https://github.com/kbluck/briefing-output-style",
+  "license": "MIT",
+  "keywords": ["claude", "output-style", "clarity", "brevity", "plain-language"]
+}

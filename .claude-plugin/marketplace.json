@@ -1,0 +1,12 @@
+{
+  "name": "briefing-output-style",
+  "description": "The Briefing output style for Claude Code",
+  "owner": { "name": "kbluck", "email": "kevin.bluck@gmail.com" },
+  "plugins": [
+    {
+      "name": "briefing",
+      "description": "Claude Code output style that prioritizes clarity and brevity.",
+      "source": "./"
+    }
+  ]
+}
